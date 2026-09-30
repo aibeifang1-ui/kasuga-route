@@ -1,0 +1,16 @@
+{
+  "name": "春日站往返 · 传单步行路线",
+  "short_name": "春日配布路线",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f8",
+  "theme_color": "#075f74",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
